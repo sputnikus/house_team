@@ -1,18 +1,33 @@
 # House Team
 
 > I need help.
+>
 > Who doesn't? I need someone to talk to.
-> Can you say, "Crikey, mate"? Crikey, mate.
+>
+> Can you say, "Crikey, mate"?
+>
+> Crikey, mate.
+>
 > Perfect.
-> Now no matter what I say, you agree with me, okay? Okay.
+>
+> Now no matter what I say, you agree with me, okay?
+>
+> Okay.
+>
 > Nicely done.
+>
 > And you disagree with everything I say.
-> Sorry.
-> Not understanding.
+>
+> Sorry. Not understanding.
+>
 > That's close enough.
+>
 > And you get morally outraged at everything I say.
+>
 > That's a permanent marker, you know.
+>
 > Wow.
+> 
 > You guys are good.
 
 - [Opencode commands](https://opencode.ai/docs/commands/)
